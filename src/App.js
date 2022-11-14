@@ -11,9 +11,9 @@ function App() {
       </div>
       <Brand/>
       <WhatGTP3/>
+      <Features/>
       <Possibility/>
       <CTA/>   
-      <Features/>
       <Blog/>
       <Footer/>
     </div>
